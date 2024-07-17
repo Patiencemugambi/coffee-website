@@ -7,7 +7,7 @@ html{
 }
 :root{
 /* Font Sizes & Family */
-/* if we set html's font size 62.5% then 1rem = 10px */
+/* set html's font size 62.5% then 1rem = 10px */
 
 --body-font: 'Poppins', sans-serif;
 
